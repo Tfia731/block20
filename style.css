@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(242, 239, 239);
+}
+header{
+    color:rgb(159, 39, 143);
+    text-align: center;
+    font-family: Verdana;
+    background-color:rgb(218, 199, 177);
+    padding: 30px;
+    border: 30px; 
+    border-color: black; 
+}
+
+div.item-list{
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+ul{
+    list-style-position: outside;
+    text-align: left;
+    padding-left: 30px;
+}
+li{
+    list-style-position: inside;
+    text-align:left;
+    padding-left: 25px;
+}
